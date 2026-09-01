@@ -1,4 +1,4 @@
-# Conditional Access & Entra ID Security Lab
+# Microsoft Conditional Access & Entra ID Security Lab
 
 *Template — replace the bracketed prompts as you build the project. Delete these italic notes once filled in.*
 
