@@ -15,8 +15,9 @@ Before this, my background was in sales, which turned out to be more useful here
 ## Projects
 
 - **[Kali Linux on an M1 MacBook Pro](./kali-on-m1-setup/)**: setting up a Kali VM on Apple Silicon using UTM, including the bugs I hit along the way and how I fixed them
+- **[OWASP Juice Shop: First Steps and the Defender's View](./juice-shop-first-steps/)**: home lab practice against a deliberately vulnerable target, plus a look at what the app actually logs by default
 
-More projects will be added here as the lab grows, likely a vulnerable web app target next (OWASP Juice Shop), followed by writeups on actually attacking and defending it.
+More projects will be added here as the lab grows.
 
 ## Why this is public
 
@@ -24,4 +25,4 @@ I'd rather show real, honest progress than wait until everything looks polished.
 
 ---
 
-*Last updated: August 2026*
+*Last updated: September 2026*
